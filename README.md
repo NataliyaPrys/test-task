@@ -1,0 +1,6 @@
+Install 'Node.js'
+Install 'npm -g http-server'
+Run 'npm install'
+Run 'npm run dev'
+Run HTTP server 'http-server'
+Open page 'http://localhost:8080/index.html'
